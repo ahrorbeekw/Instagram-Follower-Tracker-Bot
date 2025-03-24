@@ -32,7 +32,7 @@ instaloader
 
 Clone the repository:
 
-git clone https://github.com/yourusername/instagram-tracker-bot.git
+git clone https://github.com/Ahrorbeekw/instagram-tracker-bot.git
 cd instagram-tracker-bot
 Install required dependencies:
 
